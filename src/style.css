@@ -1,1 +1,16 @@
-/* styles go here */
+.window {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.fix {
+  margin-top: 10px;
+}
+
+.last {
+  margin-top: 10px;
+}
+
+.first {
+  margin-bottom: 10px;
+}
