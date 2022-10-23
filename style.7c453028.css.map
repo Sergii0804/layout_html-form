@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAIA,QACE,kBAAmB,CACnB,eACF,CAEA,KACE,kBACF","file":"style.7c453028.css","sourceRoot":"..\\src","sourcesContent":["/* .window {\n  margin-top: 20px;\n  margin-bottom: 20px;\n} */\n.window {\n  margin-bottom: 20px;\n  margin-top: 20px;\n}\n\n.fix {\n  margin-bottom: 10px;\n}\n"]}
